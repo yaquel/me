@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yaquel
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Typeskript
 - 📫 How to reach me yaqueldiscord@gmail.com
 
 <!---
